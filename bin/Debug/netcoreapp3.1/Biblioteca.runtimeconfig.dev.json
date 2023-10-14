@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\helom\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\helom\\.nuget\\packages"
+    ]
+  }
+}

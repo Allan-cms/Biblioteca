@@ -850,11 +850,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\helom\\OneDrive\\Ambiente de Trabalho\\UC07.02\\Biblioteca.csproj",
+      "projectUniqueName": "C:\\Users\\helom\\OneDrive\\Ambiente de Trabalho\\Biblioteca\\Biblioteca.csproj",
       "projectName": "Biblioteca",
-      "projectPath": "C:\\Users\\helom\\OneDrive\\Ambiente de Trabalho\\UC07.02\\Biblioteca.csproj",
+      "projectPath": "C:\\Users\\helom\\OneDrive\\Ambiente de Trabalho\\Biblioteca\\Biblioteca.csproj",
       "packagesPath": "C:\\Users\\helom\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\helom\\OneDrive\\Ambiente de Trabalho\\UC07.02\\obj\\",
+      "outputPath": "C:\\Users\\helom\\OneDrive\\Ambiente de Trabalho\\Biblioteca\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\helom\\AppData\\Roaming\\NuGet\\NuGet.Config"

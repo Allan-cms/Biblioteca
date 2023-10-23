@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "lUlATQDK0O7qRFqSfxE+WD2OeQpRztSDjaduoBw8QpZAqOr7TISvpOoKEb+olbYQ8lRwE/yGL624V62L2CeF3g==",
+  "dgSpecHash": "mnPdHbSlRx4WCpKGuGEjh4/sBCSkVe8YPE8TXNmHGhB2Lzfr37leED8iHsUtWoIdXnz9jbbvjMBtAEuudiZIlg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\helom\\OneDrive\\Ambiente de Trabalho\\UC07.02\\Biblioteca.csproj",
+  "projectFilePath": "C:\\Users\\helom\\OneDrive\\Ambiente de Trabalho\\Biblioteca\\Biblioteca.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\helom\\.nuget\\packages\\microsoft.csharp\\4.6.0\\microsoft.csharp.4.6.0.nupkg.sha512",
     "C:\\Users\\helom\\.nuget\\packages\\microsoft.entityframeworkcore\\3.0.0\\microsoft.entityframeworkcore.3.0.0.nupkg.sha512",

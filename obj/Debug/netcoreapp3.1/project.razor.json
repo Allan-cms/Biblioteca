@@ -14402,6 +14402,11 @@
   "RootNamespace": "Biblioteca",
   "Documents": [
     {
+      "FilePath": "c:\\Users\\helom\\OneDrive\\Ambiente de Trabalho\\UC07.02\\Views\\Usuario\\ListaDeUsuarios.cshtml",
+      "TargetPath": "Views\\Usuario\\ListaDeUsuarios.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "c:\\Users\\helom\\OneDrive\\Ambiente de Trabalho\\UC07.02\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
       "TargetPath": "Views\\Shared\\_ValidationScriptsPartial.cshtml",
       "FileKind": "mvc"
@@ -14437,6 +14442,11 @@
       "FileKind": "mvc"
     },
     {
+      "FilePath": "c:\\Users\\helom\\OneDrive\\Ambiente de Trabalho\\UC07.02\\Views\\Usuario\\RegistrarUsuarios.cshtml",
+      "TargetPath": "Views\\Usuario\\RegistrarUsuarios.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "c:\\Users\\helom\\OneDrive\\Ambiente de Trabalho\\UC07.02\\Views\\Home\\Login.cshtml",
       "TargetPath": "Views\\Home\\Login.cshtml",
       "FileKind": "mvc"
@@ -14444,6 +14454,11 @@
     {
       "FilePath": "c:\\Users\\helom\\OneDrive\\Ambiente de Trabalho\\UC07.02\\Views\\Livro\\Cadastro.cshtml",
       "TargetPath": "Views\\Livro\\Cadastro.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\helom\\OneDrive\\Ambiente de Trabalho\\UC07.02\\Views\\Usuario\\Administracao.cshtml",
+      "TargetPath": "Views\\Usuario\\Administracao.cshtml",
       "FileKind": "mvc"
     },
     {
@@ -14464,6 +14479,11 @@
     {
       "FilePath": "c:\\Users\\helom\\OneDrive\\Ambiente de Trabalho\\UC07.02\\Views\\Home\\Privacy.cshtml",
       "TargetPath": "Views\\Home\\Privacy.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\helom\\OneDrive\\Ambiente de Trabalho\\UC07.02\\Views\\Usuario\\EditarUsuario.cshtml",
+      "TargetPath": "Views\\Usuario\\EditarUsuario.cshtml",
       "FileKind": "mvc"
     },
     {
